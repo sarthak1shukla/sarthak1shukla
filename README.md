@@ -4,7 +4,7 @@
 ---
 
 ### 👨‍💻 About Me
-I’m a full-stack software engineer with 4.5 + years’ experience building scalable, performant web applications. My core strengths include modern frontend stacks (**React, TypeScript, Redux Toolkit**) and backend development with **Node.js, MongoDB, and Phalcon**.
+I’m a full-stack software engineer with 5 + years’ experience building scalable, performant web applications. My core strengths include modern frontend stacks (**React, TypeScript, Redux Toolkit**) and backend development with **Node.js, MongoDB, and Phalcon**.
 
 At **Threecolts**, I deliver end-to-end features for e-commerce integration platforms (Shopify, Amazon, etc.), owning both UI and API layers. I’m also an advocate of **AI-assisted development**, leveraging tools such as **ChatGPT, Gemini, and GitHub Copilot** to boost productivity, testing, and architecture design.
 
